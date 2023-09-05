@@ -1379,6 +1379,7 @@ body {
 	height: 128px;
 	left: 0px;
 	top: 427px;
+	cursor: pointer;
 	overflow: visible;
 }
 #Rectangle_22_dn {
@@ -1432,6 +1433,7 @@ body {
 	height: 55px;
 	left: 265px;
 	top: 9px;
+	cursor: pointer;
 	overflow: visible;
 }
 #Rectangle_23_dr {
@@ -1457,6 +1459,7 @@ body {
 	font-style: normal;
 	font-weight: bold;
 	font-size: 19px;
+	cursor: pointer;
 	color: rgba(255,255,255,1);
 }
 #arrow_dt {
@@ -1711,6 +1714,7 @@ body {
 	height: 128px;
 	left: 0px;
 	top: 427px;
+	cursor: pointer;
 	overflow: visible;
 }
 #Rectangle_22_ee {
@@ -1764,6 +1768,7 @@ body {
 	height: 55px;
 	left: 269px;
 	top: 9px;
+	cursor: pointer;
 	overflow: visible;
 }
 #Rectangle_23_ei {
@@ -1789,6 +1794,7 @@ body {
 	font-style: normal;
 	font-weight: bold;
 	font-size: 19px;
+	cursor: pointer;
 	color: rgba(255,255,255,1);
 }
 #arrow_ek {
@@ -2028,6 +2034,7 @@ body {
 	height: 128px;
 	left: 43px;
 	top: 513px;
+	cursor: pointer;
 	overflow: visible;
 }
 #Rectangle_22_e {
@@ -2081,6 +2088,8 @@ body {
 	height: 55px;
 	left: 269px;
 	top: 9px;
+	cursor: pointer;
+	cursor: pointer;
 	overflow: visible;
 }
 #Rectangle_23_e {
@@ -2106,6 +2115,7 @@ body {
 	font-style: normal;
 	font-weight: bold;
 	font-size: 19px;
+	cursor: pointer;
 	color: rgba(255,255,255,1);
 }
 #arrow_fa {
@@ -2345,6 +2355,7 @@ body {
 	height: 128px;
 	left: 0px;
 	top: 427px;
+	cursor: pointer;
 	overflow: visible;
 }
 #Rectangle_22_fu {
@@ -2398,6 +2409,7 @@ body {
 	height: 55px;
 	left: 269px;
 	top: 9px;
+	cursor: pointer;
 	overflow: visible;
 }
 #Rectangle_23_fy {
@@ -2423,6 +2435,7 @@ body {
 	font-style: normal;
 	font-weight: bold;
 	font-size: 19px;
+	cursor: pointer;
 	color: rgba(255,255,255,1);
 }
 #arrow_f {
@@ -2662,6 +2675,7 @@ body {
 	height: 128px;
 	left: 0px;
 	top: 427px;
+	cursor: pointer;
 	overflow: visible;
 }
 #Rectangle_22_gk {
@@ -2715,6 +2729,8 @@ body {
 	height: 55px;
 	left: 269px;
 	top: 9px;
+	cursor: pointer;
+	cursor: pointer;
 	overflow: visible;
 }
 #Rectangle_23_go {
@@ -2740,6 +2756,7 @@ body {
 	font-style: normal;
 	font-weight: bold;
 	font-size: 19px;
+	cursor: pointer;
 	color: rgba(255,255,255,1);
 }
 #arrow_gq {
@@ -2979,6 +2996,7 @@ body {
 	height: 128px;
 	left: 0px;
 	top: 427px;
+	cursor: pointer;
 	overflow: visible;
 }
 #Rectangle_22_ha {
@@ -3032,6 +3050,7 @@ body {
 	height: 55px;
 	left: 269px;
 	top: 9px;
+	cursor: pointer;
 	overflow: visible;
 }
 #Rectangle_23_he {
@@ -3057,6 +3076,7 @@ body {
 	font-style: normal;
 	font-weight: bold;
 	font-size: 19px;
+	cursor: pointer;
 	color: rgba(255,255,255,1);
 }
 #arrow_hg {
@@ -3296,6 +3316,7 @@ body {
 	height: 128px;
 	left: 0px;
 	top: 427px;
+	cursor: pointer;
 	overflow: visible;
 }
 #Rectangle_22_h {
@@ -3349,6 +3370,7 @@ body {
 	height: 55px;
 	left: 269px;
 	top: 9px;
+	cursor: pointer;
 	overflow: visible;
 }
 #Rectangle_23_h {
@@ -3374,6 +3396,7 @@ body {
 	font-style: normal;
 	font-weight: bold;
 	font-size: 19px;
+	cursor: pointer;
 	color: rgba(255,255,255,1);
 }
 #arrow_h {
@@ -3633,6 +3656,7 @@ body {
 	height: 128px;
 	left: 0px;
 	top: 427px;
+	cursor: pointer;
 	overflow: visible;
 }
 #Rectangle_22_ir {
@@ -3686,6 +3710,7 @@ body {
 	height: 55px;
 	left: 269px;
 	top: 9px;
+	cursor: pointer;
 	overflow: visible;
 }
 #Rectangle_23_iv {
@@ -3711,6 +3736,7 @@ body {
 	font-style: normal;
 	font-weight: bold;
 	font-size: 19px;
+	cursor: pointer;
 	color: rgba(255,255,255,1);
 }
 #arrow_ix {
@@ -3970,6 +3996,7 @@ body {
 	height: 128px;
 	left: 0px;
 	top: 427px;
+	cursor: pointer;
 	overflow: visible;
 }
 #Rectangle_22_ji {
@@ -4023,6 +4050,7 @@ body {
 	height: 55px;
 	left: 269px;
 	top: 9px;
+	cursor: pointer;
 	overflow: visible;
 }
 #Rectangle_23_jm {
@@ -4048,6 +4076,7 @@ body {
 	font-style: normal;
 	font-weight: bold;
 	font-size: 19px;
+	cursor: pointer;
 	color: rgba(255,255,255,1);
 }
 #arrow_jo {
@@ -5173,8 +5202,14 @@ body {
 	left: 0px;
 	top: 0px;
 }
+
+#agree_ong {
+	text-decoration: underline;
+	color: gray;
+}
+
 #Use_Your_Mouse_Wheel_To_Scroll {
-	left: 846px;
+	left: 646px;
 	top: 3498px;
 	position: absolute;
 	overflow: visible;
